@@ -1,8 +1,8 @@
 # automatic-birthday-greeter
 
-No more forgetting the brithdays of special people in your life!
+No more forgetting the brithdays of the special people in your life! 
 
-Thanks to smtplib module in Python this app is possible.
+This app allows you to save the email of your loved ones that will be later on used for sending automatic birthday greetings! Thanks to smtplib module in Python this app is possible.
 
 Here is how you can customize:		
     * Change the sender value to the email you want to use to send email
