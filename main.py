@@ -3,8 +3,8 @@ import datetime as dt
 import random
 import smtplib
 
-sender = "secureless515@gmail.com"
-password = "uzrrdsbedaxpojkk"
+sender = "youremail@email.com"
+password = "yourpassword"
 date_now = dt.datetime.now()
 month = date_now.month
 day = date_now.day
