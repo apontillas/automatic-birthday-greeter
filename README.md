@@ -11,4 +11,4 @@ Here is how you can customize:
     * When adding a new letter txt file, make sure to change the max value in the random.randint() for letter_num.
     * Use your email provider's smtp server address.
 
-Disclaimer: This app was conceptualize by Dr. Angela Yu but the code is my personal approach to adding logic to the app.
+Disclaimer: This app was conceptualize by Dr. Angela Yu but the code is my personal approach to adding the logic to the app.
